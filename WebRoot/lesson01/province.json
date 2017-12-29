@@ -1,0 +1,47 @@
+[{
+	"id":1,
+	"text":"甘肃",
+	"state":"closed",
+	"children":[{
+		"id":11,
+		"text":"兰州",
+		"state":"closed",
+		"children":[{
+			"id":111,
+			"text":"西固区"			
+		},{
+			"id":112,
+			"text":"安宁区"
+		},{
+			"id":113,
+			"text":"城关区"
+		},{		
+			"id":114,
+			"text":"七里河区"
+		},{
+			"id":115,
+			"text":"红谷区"
+		}]
+	},{
+		"id":12,
+		"text":"天水"		
+	}]
+},{
+	"id":2,
+	"text":"广东",
+	"state":"closed",
+	"children":[{
+		"id":21,
+		"text":"深圳"		
+	},{
+		"id":22,
+		"text":"广州"
+	},{
+		"id":23,
+		"text":"珠海"
+	},{
+		"id":21,
+		"text":"惠州"
+	}]
+}]
+	
